@@ -1,0 +1,6 @@
+com/weather/weatherApp/entities/WeatherResponse.class
+com/weather/weatherApp/controller/WeatherController.class
+com/weather/weatherApp/WeatherAppApplication.class
+com/weather/weatherApp/service/WeatherService.class
+com/weather/weatherApp/entities/WeatherResponse$Current.class
+com/weather/weatherApp/entities/WeatherResponse$Location.class
